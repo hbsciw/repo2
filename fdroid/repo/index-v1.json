@@ -1,0 +1,691 @@
+{
+  "repo": {
+    "timestamp": 1630359671000,
+    "version": 21,
+    "name": "\u06a9\u0627\u0631\u062f\u0631\u0645\u0627\u0646\u06cc\u06f2",
+    "icon": "default-repo-icon.png",
+    "address": "https://github.com/hbsciw/repo2/raw/master/fdroid/repo",
+    "description": "\u06a9\u0627\u0631\u062f\u0631\u0645\u0627\u0646\u06cc\u06f2",
+    "mirrors": [
+      "https://github.com/hbsciw/repo2/raw/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "1761",
+      "license": "Unknown",
+      "name": "Build It 3D",
+      "added": 1630352917000,
+      "icon": "com.kwalee.citybuilder.1761.png",
+      "packageName": "com.kwalee.citybuilder",
+      "lastUpdated": 1630359671000
+    },
+    {
+      "suggestedVersionCode": "2061006",
+      "license": "Unknown",
+      "name": "Candy Crush Friends",
+      "added": 1630352920000,
+      "packageName": "com.king.candycrush4",
+      "lastUpdated": 1630359666000
+    },
+    {
+      "suggestedVersionCode": "32",
+      "license": "Unknown",
+      "name": "Hidden Objects - Can you find all the items?",
+      "added": 1630352922000,
+      "icon": "com.pingvigames.hidden.objects.find.items.32.png",
+      "packageName": "com.pingvigames.hidden.objects.find.items",
+      "lastUpdated": 1630359660000
+    },
+    {
+      "suggestedVersionCode": "22",
+      "license": "Unknown",
+      "name": "Liquid Sort Puzzle",
+      "added": 1630352931000,
+      "icon": "com.picolaf.liquidsortpuzzle.22.png",
+      "packageName": "com.picolaf.liquidsortpuzzle",
+      "lastUpdated": 1630359659000
+    },
+    {
+      "suggestedVersionCode": "938",
+      "license": "Unknown",
+      "name": "Match 3D",
+      "added": 1630352928000,
+      "icon": "com.loop.match3d.938.png",
+      "packageName": "com.loop.match3d",
+      "lastUpdated": 1630359658000
+    },
+    {
+      "suggestedVersionCode": "8470000",
+      "license": "Unknown",
+      "name": "Pet Line Puzzle",
+      "added": 1630352924000,
+      "icon": "com.sinyee.babybus.rescue.8470000.png",
+      "packageName": "com.sinyee.babybus.rescue",
+      "lastUpdated": 1630359662000
+    },
+    {
+      "suggestedVersionCode": "16",
+      "license": "Unknown",
+      "name": "\u06a9\u0627\u0631\u062a \u0628\u0627\u0632\u064a \u06a9\u0648\u062f\u06a9\u0627\u0646",
+      "added": 1630352914000,
+      "icon": "com.emmsoft.kidsmemorygame.16.png",
+      "packageName": "com.emmsoft.kidsmemorygame",
+      "lastUpdated": 1630359663000
+    },
+    {
+      "suggestedVersionCode": "121",
+      "license": "Unknown",
+      "name": "\u06a9\u0644\u0645\u0627\u062a\u06cc\u06a9",
+      "added": 1630352912000,
+      "icon": "com.ordibeheshtstudio.kalamatic.121.png",
+      "packageName": "com.ordibeheshtstudio.kalamatic",
+      "lastUpdated": 1630359668000
+    }
+  ],
+  "packages": {
+    "com.emmsoft.kidsmemorygame": [
+      {
+        "added": 1630359663000,
+        "apkName": "d.apk",
+        "hash": "8c9deddc6417e199ab0920e84011d3e02aae321e6317f725f92d672557b5a93a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "com.emmsoft.kidsmemorygame",
+        "sig": "90b5a248330f2e8b550ceb6d0904a980",
+        "signer": "62c6c4d31c3dbf733411219d8649b423d528fb527ee70cac8e2f303ed700855a",
+        "size": 37123978,
+        "targetSdkVersion": 25,
+        "uses-permission": [
+          [
+            "com.farsitel.bazaar.permission.PAY_THROUGH_BAZAAR",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.emmsoft.kidsmemorygame.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 16,
+        "versionName": "1.2.3"
+      }
+    ],
+    "com.king.candycrush4": [
+      {
+        "added": 1630359666000,
+        "apkName": "dd.apk",
+        "hash": "a55b1fd842c620b072da8e83d79df2da41fa877de1a01adaf0532aaad913300b",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.king.candycrush4",
+        "sig": "cc5416fb58da277f10df90050ada0dd4",
+        "signer": "cb81a24ddba344c28eec02977979a7e2e9fbfd35d4f2441796cc46e150b88f7e",
+        "size": 86034004,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.king.candycrush4.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 2061006,
+        "versionName": "1.61.6"
+      }
+    ],
+    "com.kwalee.citybuilder": [
+      {
+        "added": 1630359671000,
+        "apkName": "f.apk",
+        "hash": "58f13923fdb6b02c68c664d17f3f4fcf3989f79548b9877fd4ade0d33e5c22fc",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.kwalee.citybuilder",
+        "sig": "731d31641ea17307c3b1e6a6b0bebcd7",
+        "signer": "b5833a2f73d7d2779d708d15668594db012dc7fcf4972dab87b10f8b9a315dc3",
+        "size": 84658122,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.android.alarm.permission.SET_ALARM",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "versionCode": 1761,
+        "versionName": "1.1.5"
+      }
+    ],
+    "com.loop.match3d": [
+      {
+        "added": 1630359658000,
+        "apkName": "com.loop.match3d_1063_apps.evozi.com.apk",
+        "hash": "dcaf43b86c33d8b2d89d105a6ccea54f3ae4c41ef1fdf24425f1d1f067a0c3b8",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.loop.match3d",
+        "sig": "8ad188ec1d178b8f6ef360c1447defb8",
+        "signer": "6de9817c2f579efb2f11b7ce25d34a584de19418ccdaf792ad22f9931047486d",
+        "size": 92550130,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "com.loop.match3d.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "versionCode": 938,
+        "versionName": "938"
+      }
+    ],
+    "com.ordibeheshtstudio.kalamatic": [
+      {
+        "added": 1630359668000,
+        "apkName": "e.apk",
+        "hash": "9198bcd6525f729c81b2c92fd926087dbedae0611d04eb54e8200aa8098ed658",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "packageName": "com.ordibeheshtstudio.kalamatic",
+        "sig": "26462b3a7179f18e9546291b9b28f21d",
+        "signer": "5b8a319aaf0effce5cb654b0e0532e475931d72bb98345372c3124fa8a974561",
+        "size": 69232865,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.farsitel.bazaar.permission.PAY_THROUGH_BAZAAR",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.ordibeheshtstudio.kalamatic.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 121,
+        "versionName": "3.9.19"
+      }
+    ],
+    "com.picolaf.liquidsortpuzzle": [
+      {
+        "added": 1630359659000,
+        "apkName": "com.picolaf.liquidsortpuzzle_22_apps.evozi.com.apk",
+        "hash": "54d7fab81b927bc016a75f7c8357a768303f8f8878475a8278deded6262b761e",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "armeabi-v7a"
+        ],
+        "packageName": "com.picolaf.liquidsortpuzzle",
+        "sig": "2aaef73b826b6b692dde039251be784c",
+        "signer": "64eaf779851b4e299e839a27fd48d9ba9014d5bf6a7f28c9e6c14f19d884e764",
+        "size": 39029151,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.picolaf.liquidsortpuzzle.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 22,
+        "versionName": "1.2.2"
+      }
+    ],
+    "com.pingvigames.hidden.objects.find.items": [
+      {
+        "added": 1630359660000,
+        "apkName": "com.pingvigames.hidden.objects.find.items_32_apps.evozi.com.apk",
+        "hash": "70d11f54f18602820fef80ea578d2f9d8bf057a8acf49073f51c830af08ea00a",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.pingvigames.hidden.objects.find.items",
+        "sig": "1a82cb870cd773361d2de9bdb3c5f086",
+        "signer": "97639fa705a504459d93da3b99f788e5188c914891aff77a709a7b5be4ce31d2",
+        "size": 53722667,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            18
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            18
+          ]
+        ],
+        "versionCode": 32,
+        "versionName": "1.35"
+      }
+    ],
+    "com.sinyee.babybus.rescue": [
+      {
+        "added": 1630359662000,
+        "apkName": "com.sinyee.babybus.rescue_8470000_apps.evozi.com.apk",
+        "hash": "e724e84d00e0486640fcefbef8566f47a8e8c6618d8b5d31b53cf2b1095b70d7",
+        "hashType": "sha256",
+        "minSdkVersion": 17,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "com.sinyee.babybus.rescue",
+        "sig": "ebdec8bddd16785d6996ad1e57ed84a8",
+        "signer": "4b31a33e2bb7646d17cf9b991f8fddc4f634e4ad00b956150b77fb5fbb26b596",
+        "size": 68701410,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ]
+        ],
+        "versionCode": 8470000,
+        "versionName": "8.47.00.00"
+      }
+    ]
+  }
+}

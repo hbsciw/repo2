@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="کاردرمانی۲" pubkey="30820503308202eba00302010202042003ce30300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333130395a170d3439303131353139333130395a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100834f40027db9080c626dee6d0524f6cd0032137d4013c03dbf1f02b569317c363261117d3721cb06f67b93612dbd2b7e6b9fed20e6f9bfc1ca53327b39f1d20cb0e748a774cefe1c8609033b95955e76e08f8d752ca81ae2e2aeceabc44e3fcda07d87d7d2bfd0a9a1ae63c6eef22bbc4d947be3615f7bf9e0bb53ae107a4d93398eca008a5e1139826478e7562ff3abb8f05a70ac04cb178e4ffc12d265e89e67e0757885465413dd667a9d64cd651b054d556bc77723eee4c3cc36325aae5a89074892a0353ec6d98964ab80c7f99deb70e041b9ff90c770aa6261ffce6ac0f923c93b524ee85ea7fc40d1158138bbd093993c9c59f47440c9f8a460a655f192cfe4212a73382f177eacc15fe1eaec846215835097cecfe41f855e0944a60919e3dc1bfb3260a3123877783d776788e7bbbd3cb6d02972da670a19427967f3aa336ee3b37657497870efb7ac28a189ce5f43a73b8ddef56e4d74567d856327c4d6de98fcb959840cebe68743322fa90992863053125e009d64d2f14e3fb3288469bff50d8411ddd7a395a4f008b46700399038d308e4e0da615087fa7caf4b7d28043e2abe7bbd16702167ebb2fbbabffac1cd234ccb38eb05757333e4c166c7878e96cc141a748c0922fd24056447dd6f89750c0ca677a8f903720d8d6458bce44edd81d447ce010d44345fd7983277f20e70ff2d363f2b12ba6d4c1c57db0203010001a321301f301d0603551d0e041604145d2dda75cc0da7ba4805bf7e5d1bd09c60028413300d06092a864886f70d01010b050003820201001949ba018cdfaa856ec16ce9e38003a86b1b2cbde05cac1a3606adfc072133f589680cf125320a410ba64cc0ef5adf16863b143c32997024003bcc1c72b15e0dff48c22d3510761c20cedee7498329a379242d293b6f57894eefd2e6e233c764c7f165370cedcc3dff834774e56c3507f5c2e6355ddaf615b607c60d328a09e7de424be93bb5a655fef2c437ae6ce3b2b886ab103f28966790c402e659552644e45ab693dadd555db8b5d76b76bc429ee00b87c59d25c4ec6911b8440af8b256188306091fc0af0fce3d274d3df40b72244f0f13bbc271518c0eaf0aaca1b7d6e699c55039fa72f9463a27f870c507bedeb70b4108b531ccff5533ee9e00c96d7e103c21bae39900b5a5b7e639c9cb2d4266c0ee595cf754c5243e69d78d7ab263df515cd7a5ece263d5ccec367a590f9ef143e0c244926743ddf027223a0b2439cd1983dd85ee8a33caa0607c934349fafd7251277e9cf3c63f35f0b3c12940921b973f521d58dac0f3a9785c20b330f2ab76bb2bdd31c27862dc34bf4a883bec94dcc0b6f5d6369d759944e15b3bd06d3c17e2e02290fa418d393295c9b95335c8e3c726ccdf563fece8e1329becc2c61231b5d7201a78a40edd81946455cb092571659e2c5239a7791e800a43e0f76c95e5ea76642bb9e488cd9c1dc7750d4da602a3e926d464ba95079845fca95b4bb572f871dcb686602c2bc9487ab748" timestamp="1630359671" url="https://github.com/hbsciw/repo2/raw/master/fdroid/repo" version="21">
+		<description>کاردرمانی۲</description>
+		<mirror>https://github.com/hbsciw/repo2/raw/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="com.kwalee.citybuilder">
+		<id>com.kwalee.citybuilder</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Build It 3D</name>
+		<summary></summary>
+		<icon>com.kwalee.citybuilder.1761.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>1761</marketvercode>
+		<package>
+			<version>1.1.5</version>
+			<versioncode>1761</versioncode>
+			<apkname>f.apk</apkname>
+			<hash type="sha256">58f13923fdb6b02c68c664d17f3f4fcf3989f79548b9877fd4ade0d33e5c22fc</hash>
+			<size>84658122</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>731d31641ea17307c3b1e6a6b0bebcd7</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.alarm.permission.SET_ALARM,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.king.candycrush4">
+		<id>com.king.candycrush4</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Candy Crush Friends</name>
+		<summary></summary>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2061006</marketvercode>
+		<package>
+			<version>1.61.6</version>
+			<versioncode>2061006</versioncode>
+			<apkname>dd.apk</apkname>
+			<hash type="sha256">a55b1fd842c620b072da8e83d79df2da41fa877de1a01adaf0532aaad913300b</hash>
+			<size>86034004</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>cc5416fb58da277f10df90050ada0dd4</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.king.candycrush4.permission.C2D_MESSAGE</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.pingvigames.hidden.objects.find.items">
+		<id>com.pingvigames.hidden.objects.find.items</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Hidden Objects - Can you find all the items?</name>
+		<summary></summary>
+		<icon>com.pingvigames.hidden.objects.find.items.32.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>32</marketvercode>
+		<package>
+			<version>1.35</version>
+			<versioncode>32</versioncode>
+			<apkname>com.pingvigames.hidden.objects.find.items_32_apps.evozi.com.apk</apkname>
+			<hash type="sha256">70d11f54f18602820fef80ea578d2f9d8bf057a8acf49073f51c830af08ea00a</hash>
+			<size>53722667</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>1a82cb870cd773361d2de9bdb3c5f086</sig>
+			<permissions>ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="com.picolaf.liquidsortpuzzle">
+		<id>com.picolaf.liquidsortpuzzle</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Liquid Sort Puzzle</name>
+		<summary></summary>
+		<icon>com.picolaf.liquidsortpuzzle.22.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>22</marketvercode>
+		<package>
+			<version>1.2.2</version>
+			<versioncode>22</versioncode>
+			<apkname>com.picolaf.liquidsortpuzzle_22_apps.evozi.com.apk</apkname>
+			<hash type="sha256">54d7fab81b927bc016a75f7c8357a768303f8f8878475a8278deded6262b761e</hash>
+			<size>39029151</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>2aaef73b826b6b692dde039251be784c</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.picolaf.liquidsortpuzzle.permission.C2D_MESSAGE</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.loop.match3d">
+		<id>com.loop.match3d</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Match 3D</name>
+		<summary></summary>
+		<icon>com.loop.match3d.938.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>938</marketvercode>
+		<package>
+			<version>938</version>
+			<versioncode>938</versioncode>
+			<apkname>com.loop.match3d_1063_apps.evozi.com.apk</apkname>
+			<hash type="sha256">dcaf43b86c33d8b2d89d105a6ccea54f3ae4c41ef1fdf24425f1d1f067a0c3b8</hash>
+			<size>92550130</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>8ad188ec1d178b8f6ef360c1447defb8</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_APP_BADGE,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.anddoes.launcher.permission.UPDATE_COUNT,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.htc.launcher.permission.READ_SETTINGS,com.htc.launcher.permission.UPDATE_SHORTCUT,com.huawei.android.launcher.permission.CHANGE_BADGE,com.huawei.android.launcher.permission.READ_SETTINGS,com.huawei.android.launcher.permission.WRITE_SETTINGS,com.loop.match3d.permission.C2D_MESSAGE,com.majeur.launcher.permission.UPDATE_BADGE,com.oppo.launcher.permission.READ_SETTINGS,com.oppo.launcher.permission.WRITE_SETTINGS,com.sec.android.provider.badge.permission.READ,com.sec.android.provider.badge.permission.WRITE,com.sonyericsson.home.permission.BROADCAST_BADGE,com.sonymobile.home.permission.PROVIDER_INSERT_BADGE,me.everything.badger.permission.BADGE_COUNT_READ,me.everything.badger.permission.BADGE_COUNT_WRITE</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="com.sinyee.babybus.rescue">
+		<id>com.sinyee.babybus.rescue</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>Pet Line Puzzle</name>
+		<summary></summary>
+		<icon>com.sinyee.babybus.rescue.8470000.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>8470000</marketvercode>
+		<package>
+			<version>8.47.00.00</version>
+			<versioncode>8470000</versioncode>
+			<apkname>com.sinyee.babybus.rescue_8470000_apps.evozi.com.apk</apkname>
+			<hash type="sha256">e724e84d00e0486640fcefbef8566f47a8e8c6618d8b5d31b53cf2b1095b70d7</hash>
+			<size>68701410</size>
+			<sdkver>17</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>ebdec8bddd16785d6996ad1e57ed84a8</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="com.emmsoft.kidsmemorygame">
+		<id>com.emmsoft.kidsmemorygame</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>کارت بازي کودکان</name>
+		<summary></summary>
+		<icon>com.emmsoft.kidsmemorygame.16.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>16</marketvercode>
+		<package>
+			<version>1.2.3</version>
+			<versioncode>16</versioncode>
+			<apkname>d.apk</apkname>
+			<hash type="sha256">8c9deddc6417e199ab0920e84011d3e02aae321e6317f725f92d672557b5a93a</hash>
+			<size>37123978</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>90b5a248330f2e8b550ceb6d0904a980</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.emmsoft.kidsmemorygame.permission.C2D_MESSAGE,com.farsitel.bazaar.permission.PAY_THROUGH_BAZAAR,com.google.android.c2dm.permission.RECEIVE</permissions>
+			<nativecode>armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="com.ordibeheshtstudio.kalamatic">
+		<id>com.ordibeheshtstudio.kalamatic</id>
+		<added>2021-08-30</added>
+		<lastupdated>2021-08-30</lastupdated>
+		<name>کلماتیک</name>
+		<summary></summary>
+		<icon>com.ordibeheshtstudio.kalamatic.121.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>121</marketvercode>
+		<package>
+			<version>3.9.19</version>
+			<versioncode>121</versioncode>
+			<apkname>e.apk</apkname>
+			<hash type="sha256">9198bcd6525f729c81b2c92fd926087dbedae0611d04eb54e8200aa8098ed658</hash>
+			<size>69232865</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2021-08-30</added>
+			<sig>26462b3a7179f18e9546291b9b28f21d</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.farsitel.bazaar.permission.PAY_THROUGH_BAZAAR,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.ordibeheshtstudio.kalamatic.permission.C2D_MESSAGE</permissions>
+			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+		</package>
+	</application>
+</fdroid>
