@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1630359671000,
+    "timestamp": 1630393127000,
     "version": 21,
     "name": "\u06a9\u0627\u0631\u062f\u0631\u0645\u0627\u0646\u06cc\u06f2",
     "icon": "default-repo-icon.png",
@@ -30,7 +30,13 @@
       "name": "Candy Crush Friends",
       "added": 1630352920000,
       "packageName": "com.king.candycrush4",
-      "lastUpdated": 1630359666000
+      "lastUpdated": 1630359666000,
+      "localized": {
+        "en": {
+          "description": "\u062a\u0642\u0648\u06cc\u062a problem solving \u060c\u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u060c\u062a\u0642\u0648\u06cc\u062a \u0627\u0646\u0639\u0637\u0627\u0641 \u067e\u0630\u06cc\u0631\u06cc \u0634\u0646\u0627\u062e\u062a\u06cc",
+          "summary": "\u062a\u0642\u0648\u06cc\u062a problem solving \u060c\u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u060c\u062a\u0642\u0648\u06cc\u062a \u0627\u0646\u0639\u0637\u0627\u0641 \u067e\u0630\u06cc\u0631\u06cc \u0634\u0646\u0627\u062e\u062a\u06cc"
+        }
+      }
     },
     {
       "suggestedVersionCode": "32",
@@ -39,7 +45,13 @@
       "added": 1630352922000,
       "icon": "com.pingvigames.hidden.objects.find.items.32.png",
       "packageName": "com.pingvigames.hidden.objects.find.items",
-      "lastUpdated": 1630359660000
+      "lastUpdated": 1630359660000,
+      "localized": {
+        "en": {
+          "description": "\u0628\u0647\u0628\u0648\u062f visual perception(\u062a\u0634\u062e\u06cc\u0635 \u0634\u06a9\u0644 \u0627\u0632 \u0632\u0645\u06cc\u0646\u0647 \u0648 \u062b\u0628\u0627\u062a \u0634\u06a9\u0644)\u060c \u0628\u0647\u0628\u0648\u062f \u062f\u0642\u062a \u062f\u06cc\u062f\u0627\u0631\u06cc\u060c \u0628\u0647\u0628\u0648\u062f \u0645\u062f\u06cc\u0631\u06cc\u062a \u0632\u0645\u0627\u0646\u060c \u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u0645\u0633\u062a\u0645\u0631",
+          "summary": "\u0628\u0647\u0628\u0648\u062f visual perception(\u062a\u0634\u062e\u06cc\u0635 \u0634\u06a9\u0644 \u0627\u0632 \u0632\u0645\u06cc\u0646\u0647 \u0648 \u062b\u0628\u0627\u062a \u0634\u06a9\u0644)\u060c \u0628\u0647\u0628\u0648\u062f \u062f\u0642\u062a \u062f\u06cc\u062f\u0627\u0631\u06cc\u060c \u0628\u0647\u0628\u0648\u062f \u0645\u062f\u06cc\u0631\u06cc\u062a \u0632\u0645\u0627\u0646\u060c \u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u0645\u0633\u062a\u0645\u0631"
+        }
+      }
     },
     {
       "suggestedVersionCode": "22",
@@ -48,7 +60,13 @@
       "added": 1630352931000,
       "icon": "com.picolaf.liquidsortpuzzle.22.png",
       "packageName": "com.picolaf.liquidsortpuzzle",
-      "lastUpdated": 1630359659000
+      "lastUpdated": 1630359659000,
+      "localized": {
+        "en": {
+          "description": "\u0627\u0631\u062a\u0642\u0627\u06cc \u0645\u0647\u0627\u0631\u062a \u062d\u0644 \u0645\u0633\u0626\u0644\u0647 \u060c \u0634\u0646\u0627\u062e\u062a \u0647\u0645\u0631\u0646\u06af\u06cc",
+          "summary": "\u0627\u0631\u062a\u0642\u0627\u06cc \u0645\u0647\u0627\u0631\u062a \u062d\u0644 \u0645\u0633\u0626\u0644\u0647 \u060c \u0634\u0646\u0627\u062e\u062a \u0647\u0645\u0631\u0646\u06af\u06cc"
+        }
+      }
     },
     {
       "suggestedVersionCode": "938",
@@ -57,7 +75,22 @@
       "added": 1630352928000,
       "icon": "com.loop.match3d.938.png",
       "packageName": "com.loop.match3d",
-      "lastUpdated": 1630359658000
+      "lastUpdated": 1630359658000,
+      "localized": {
+        "en": {
+          "description": "\u062a\u0642\u0648\u06cc\u062a visual perception (\u062a\u0634\u062e\u06cc\u0635 \u0634\u06a9\u0644 \u0627\u0632 \u0632\u0645\u06cc\u0646\u0647)\u060c \u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u0645\u0633\u062a\u0645\u0631",
+          "summary": "\u062a\u0642\u0648\u06cc\u062a visual perception (\u062a\u0634\u062e\u06cc\u0635 \u0634\u06a9\u0644 \u0627\u0632 \u0632\u0645\u06cc\u0646\u0647)\u060c \u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u0645\u0633\u062a\u0645\u0631"
+        }
+      }
+    },
+    {
+      "suggestedVersionCode": "117",
+      "license": "Unknown",
+      "name": "OnetX",
+      "added": 1630385388000,
+      "icon": "com.ammy.onet.117.png",
+      "packageName": "com.ammy.onet",
+      "lastUpdated": 1630393121000
     },
     {
       "suggestedVersionCode": "8470000",
@@ -66,7 +99,13 @@
       "added": 1630352924000,
       "icon": "com.sinyee.babybus.rescue.8470000.png",
       "packageName": "com.sinyee.babybus.rescue",
-      "lastUpdated": 1630359662000
+      "lastUpdated": 1630359662000,
+      "localized": {
+        "en": {
+          "description": "\u062a\u0642\u0648\u06cc\u062a visual perception (\u062a\u0634\u062e\u06cc\u0635 \u0634\u06a9\u0644 \u0627\u0632 \u0632\u0645\u06cc\u0646\u0647)\u060c \u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u0645\u0633\u062a\u0645\u0631",
+          "summary": "\u062a\u0642\u0648\u06cc\u062a visual perception (\u062a\u0634\u062e\u06cc\u0635 \u0634\u06a9\u0644 \u0627\u0632 \u0632\u0645\u06cc\u0646\u0647)\u060c \u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u0645\u0633\u062a\u0645\u0631"
+        }
+      }
     },
     {
       "suggestedVersionCode": "16",
@@ -84,10 +123,62 @@
       "added": 1630352912000,
       "icon": "com.ordibeheshtstudio.kalamatic.121.png",
       "packageName": "com.ordibeheshtstudio.kalamatic",
-      "lastUpdated": 1630359668000
+      "lastUpdated": 1630359668000,
+      "localized": {
+        "en": {
+          "description": "\u062a\u0642\u0648\u06cc\u062a \u062d\u0627\u0641\u0638\u0647",
+          "summary": "\u062a\u0642\u0648\u06cc\u062a \u062d\u0627\u0641\u0638\u0647"
+        }
+      }
     }
   ],
   "packages": {
+    "com.ammy.onet": [
+      {
+        "added": 1630393121000,
+        "apkName": "4_5865977229485280032.apk.apk",
+        "hash": "cf60aa1ef8ec18f0adcc7b769ac01f4ab651156b5da504fa8fcf12b47c6f85a6",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "com.ammy.onet",
+        "sig": "75dbae9eaf2b789eb151935ffa86854d",
+        "signer": "2384979c46ae1fa79f717d22e74e21657db89e66ec320e0c5f944dd5fbfc65cc",
+        "size": 5367828,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ]
+        ],
+        "versionCode": 117,
+        "versionName": "13.2"
+      }
+    ],
     "com.emmsoft.kidsmemorygame": [
       {
         "added": 1630359663000,

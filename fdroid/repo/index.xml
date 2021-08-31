@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="default-repo-icon.png" name="کاردرمانی۲" pubkey="30820503308202eba00302010202042003ce30300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333130395a170d3439303131353139333130395a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100834f40027db9080c626dee6d0524f6cd0032137d4013c03dbf1f02b569317c363261117d3721cb06f67b93612dbd2b7e6b9fed20e6f9bfc1ca53327b39f1d20cb0e748a774cefe1c8609033b95955e76e08f8d752ca81ae2e2aeceabc44e3fcda07d87d7d2bfd0a9a1ae63c6eef22bbc4d947be3615f7bf9e0bb53ae107a4d93398eca008a5e1139826478e7562ff3abb8f05a70ac04cb178e4ffc12d265e89e67e0757885465413dd667a9d64cd651b054d556bc77723eee4c3cc36325aae5a89074892a0353ec6d98964ab80c7f99deb70e041b9ff90c770aa6261ffce6ac0f923c93b524ee85ea7fc40d1158138bbd093993c9c59f47440c9f8a460a655f192cfe4212a73382f177eacc15fe1eaec846215835097cecfe41f855e0944a60919e3dc1bfb3260a3123877783d776788e7bbbd3cb6d02972da670a19427967f3aa336ee3b37657497870efb7ac28a189ce5f43a73b8ddef56e4d74567d856327c4d6de98fcb959840cebe68743322fa90992863053125e009d64d2f14e3fb3288469bff50d8411ddd7a395a4f008b46700399038d308e4e0da615087fa7caf4b7d28043e2abe7bbd16702167ebb2fbbabffac1cd234ccb38eb05757333e4c166c7878e96cc141a748c0922fd24056447dd6f89750c0ca677a8f903720d8d6458bce44edd81d447ce010d44345fd7983277f20e70ff2d363f2b12ba6d4c1c57db0203010001a321301f301d0603551d0e041604145d2dda75cc0da7ba4805bf7e5d1bd09c60028413300d06092a864886f70d01010b050003820201001949ba018cdfaa856ec16ce9e38003a86b1b2cbde05cac1a3606adfc072133f589680cf125320a410ba64cc0ef5adf16863b143c32997024003bcc1c72b15e0dff48c22d3510761c20cedee7498329a379242d293b6f57894eefd2e6e233c764c7f165370cedcc3dff834774e56c3507f5c2e6355ddaf615b607c60d328a09e7de424be93bb5a655fef2c437ae6ce3b2b886ab103f28966790c402e659552644e45ab693dadd555db8b5d76b76bc429ee00b87c59d25c4ec6911b8440af8b256188306091fc0af0fce3d274d3df40b72244f0f13bbc271518c0eaf0aaca1b7d6e699c55039fa72f9463a27f870c507bedeb70b4108b531ccff5533ee9e00c96d7e103c21bae39900b5a5b7e639c9cb2d4266c0ee595cf754c5243e69d78d7ab263df515cd7a5ece263d5ccec367a590f9ef143e0c244926743ddf027223a0b2439cd1983dd85ee8a33caa0607c934349fafd7251277e9cf3c63f35f0b3c12940921b973f521d58dac0f3a9785c20b330f2ab76bb2bdd31c27862dc34bf4a883bec94dcc0b6f5d6369d759944e15b3bd06d3c17e2e02290fa418d393295c9b95335c8e3c726ccdf563fece8e1329becc2c61231b5d7201a78a40edd81946455cb092571659e2c5239a7791e800a43e0f76c95e5ea76642bb9e488cd9c1dc7750d4da602a3e926d464ba95079845fca95b4bb572f871dcb686602c2bc9487ab748" timestamp="1630359671" url="https://github.com/hbsciw/repo2/raw/master/fdroid/repo" version="21">
+	<repo icon="default-repo-icon.png" name="کاردرمانی۲" pubkey="30820503308202eba00302010202042003ce30300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333130395a170d3439303131353139333130395a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100834f40027db9080c626dee6d0524f6cd0032137d4013c03dbf1f02b569317c363261117d3721cb06f67b93612dbd2b7e6b9fed20e6f9bfc1ca53327b39f1d20cb0e748a774cefe1c8609033b95955e76e08f8d752ca81ae2e2aeceabc44e3fcda07d87d7d2bfd0a9a1ae63c6eef22bbc4d947be3615f7bf9e0bb53ae107a4d93398eca008a5e1139826478e7562ff3abb8f05a70ac04cb178e4ffc12d265e89e67e0757885465413dd667a9d64cd651b054d556bc77723eee4c3cc36325aae5a89074892a0353ec6d98964ab80c7f99deb70e041b9ff90c770aa6261ffce6ac0f923c93b524ee85ea7fc40d1158138bbd093993c9c59f47440c9f8a460a655f192cfe4212a73382f177eacc15fe1eaec846215835097cecfe41f855e0944a60919e3dc1bfb3260a3123877783d776788e7bbbd3cb6d02972da670a19427967f3aa336ee3b37657497870efb7ac28a189ce5f43a73b8ddef56e4d74567d856327c4d6de98fcb959840cebe68743322fa90992863053125e009d64d2f14e3fb3288469bff50d8411ddd7a395a4f008b46700399038d308e4e0da615087fa7caf4b7d28043e2abe7bbd16702167ebb2fbbabffac1cd234ccb38eb05757333e4c166c7878e96cc141a748c0922fd24056447dd6f89750c0ca677a8f903720d8d6458bce44edd81d447ce010d44345fd7983277f20e70ff2d363f2b12ba6d4c1c57db0203010001a321301f301d0603551d0e041604145d2dda75cc0da7ba4805bf7e5d1bd09c60028413300d06092a864886f70d01010b050003820201001949ba018cdfaa856ec16ce9e38003a86b1b2cbde05cac1a3606adfc072133f589680cf125320a410ba64cc0ef5adf16863b143c32997024003bcc1c72b15e0dff48c22d3510761c20cedee7498329a379242d293b6f57894eefd2e6e233c764c7f165370cedcc3dff834774e56c3507f5c2e6355ddaf615b607c60d328a09e7de424be93bb5a655fef2c437ae6ce3b2b886ab103f28966790c402e659552644e45ab693dadd555db8b5d76b76bc429ee00b87c59d25c4ec6911b8440af8b256188306091fc0af0fce3d274d3df40b72244f0f13bbc271518c0eaf0aaca1b7d6e699c55039fa72f9463a27f870c507bedeb70b4108b531ccff5533ee9e00c96d7e103c21bae39900b5a5b7e639c9cb2d4266c0ee595cf754c5243e69d78d7ab263df515cd7a5ece263d5ccec367a590f9ef143e0c244926743ddf027223a0b2439cd1983dd85ee8a33caa0607c934349fafd7251277e9cf3c63f35f0b3c12940921b973f521d58dac0f3a9785c20b330f2ab76bb2bdd31c27862dc34bf4a883bec94dcc0b6f5d6369d759944e15b3bd06d3c17e2e02290fa418d393295c9b95335c8e3c726ccdf563fece8e1329becc2c61231b5d7201a78a40edd81946455cb092571659e2c5239a7791e800a43e0f76c95e5ea76642bb9e488cd9c1dc7750d4da602a3e926d464ba95079845fca95b4bb572f871dcb686602c2bc9487ab748" timestamp="1630393127" url="https://github.com/hbsciw/repo2/raw/master/fdroid/repo" version="21">
 		<description>کاردرمانی۲</description>
 		<mirror>https://github.com/hbsciw/repo2/raw/master/fdroid/repo/repo</mirror>
 	</repo>
@@ -39,8 +39,8 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-30</lastupdated>
 		<name>Candy Crush Friends</name>
-		<summary></summary>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<summary>تقویت problem solving ،بهبود توجه ،تقویت انعطاف پذیری شناختی</summary>
+		<desc>تقویت problem solving ،بهبود توجه ،تقویت انعطاف پذیری شناختی</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -66,9 +66,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-30</lastupdated>
 		<name>Hidden Objects - Can you find all the items?</name>
-		<summary></summary>
+		<summary>بهبود visual perception(تشخیص شکل از زمینه و ثبات شکل)، بهبود دقت دیداری، بهبود مدیریت زمان، بهبود توجه مستمر</summary>
 		<icon>com.pingvigames.hidden.objects.find.items.32.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>بهبود visual perception(تشخیص شکل از زمینه و ثبات شکل)، بهبود دقت دیداری، بهبود مدیریت زمان، بهبود توجه مستمر</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -96,9 +96,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-30</lastupdated>
 		<name>Liquid Sort Puzzle</name>
-		<summary></summary>
+		<summary>ارتقای مهارت حل مسئله ، شناخت همرنگی</summary>
 		<icon>com.picolaf.liquidsortpuzzle.22.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>ارتقای مهارت حل مسئله ، شناخت همرنگی</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -124,9 +124,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-30</lastupdated>
 		<name>Match 3D</name>
-		<summary></summary>
+		<summary>تقویت visual perception (تشخیص شکل از زمینه)، بهبود توجه مستمر</summary>
 		<icon>com.loop.match3d.938.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>تقویت visual perception (تشخیص شکل از زمینه)، بهبود توجه مستمر</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -149,14 +149,41 @@
 			<nativecode>arm64-v8a</nativecode>
 		</package>
 	</application>
+	<application id="com.ammy.onet">
+		<id>com.ammy.onet</id>
+		<added>2021-08-31</added>
+		<lastupdated>2021-08-31</lastupdated>
+		<name>OnetX</name>
+		<summary></summary>
+		<icon>com.ammy.onet.117.png</icon>
+		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>117</marketvercode>
+		<package>
+			<version>13.2</version>
+			<versioncode>117</versioncode>
+			<apkname>4_5865977229485280032.apk.apk</apkname>
+			<hash type="sha256">cf60aa1ef8ec18f0adcc7b769ac01f4ab651156b5da504fa8fcf12b47c6f85a6</hash>
+			<size>5367828</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-08-31</added>
+			<sig>75dbae9eaf2b789eb151935ffa86854d</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,com.android.vending.BILLING</permissions>
+		</package>
+	</application>
 	<application id="com.sinyee.babybus.rescue">
 		<id>com.sinyee.babybus.rescue</id>
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-30</lastupdated>
 		<name>Pet Line Puzzle</name>
-		<summary></summary>
+		<summary>تقویت visual perception (تشخیص شکل از زمینه)، بهبود توجه مستمر</summary>
 		<icon>com.sinyee.babybus.rescue.8470000.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>تقویت visual perception (تشخیص شکل از زمینه)، بهبود توجه مستمر</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
@@ -210,9 +237,9 @@
 		<added>2021-08-30</added>
 		<lastupdated>2021-08-30</lastupdated>
 		<name>کلماتیک</name>
-		<summary></summary>
+		<summary>تقویت حافظه</summary>
 		<icon>com.ordibeheshtstudio.kalamatic.121.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<desc>تقویت حافظه</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
